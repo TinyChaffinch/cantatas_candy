@@ -16,14 +16,25 @@ header {
 }
 
 header p {
+    margin-top: 0;
     text-align: center;
     font-size: 1.5rem;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
     margin: 10px;
     font-size: 4.4rem;
     text-align: center;
+}
+
+img {
+    width: 50px;
 }
 
 main {
